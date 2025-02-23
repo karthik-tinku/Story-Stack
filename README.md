@@ -1,4 +1,4 @@
-**Story Stack**
+**Story Stack** |  HTML , CSS , Javascript,React, Tailwind CSS, Node.js, Express.js, and MongoDB.
 
 **Developed a Full-Stack Book Management Platform** : Built a comprehensive web application using HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB to streamline book data access and enhance user engagement.
 
